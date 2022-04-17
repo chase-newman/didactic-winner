@@ -1,0 +1,17 @@
+/*font-family: 'Lobster', cursive;*/
+/*font-family: 'Roboto', sans-serif;*/
+
+
+#title {
+    font-family: 'Lobster', cursive;
+    font-size: 3rem;
+}
+.row {
+    margin: 2rem 0;
+}
+.b-left {
+    border-left: 4px solid #ff4800;
+}
+#header-img {
+    height: 400px;
+}
